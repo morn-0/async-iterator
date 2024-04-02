@@ -19,8 +19,6 @@
 //!
 #![cfg_attr(not(feature = "std"), no_std)]
 #![allow(incomplete_features)]
-#![feature(return_position_impl_trait_in_trait)]
-#![feature(async_fn_in_trait)]
 #![forbid(unsafe_code, future_incompatible)]
 #![deny(missing_debug_implementations, nonstandard_style)]
 #![warn(missing_docs)]
